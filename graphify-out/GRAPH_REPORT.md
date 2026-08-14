@@ -1,7 +1,7 @@
-# Graph Report - IMPETUS  (2026-08-01)
+# Graph Report - IMPETUS  (2026-08-03)
 
 ## Corpus Check
-- 15 files · ~210,956 words
+- 15 files · ~211,176 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -79,7 +79,7 @@ Nodes (4): checkAuth(), handleLogout(), init(), showLoginSection()
 
 ### Community 10 - "Community 10"
 Cohesion: 0.67
-Nodes (3): detectEmailColumn(), handleFileUpload(), openCampaignModal()
+Nodes (3): loadDocuments(), renderDocuments(), uploadDocuments()
 
 ### Community 11 - "Community 11"
 Cohesion: 0.67
@@ -87,7 +87,7 @@ Nodes (3): getInitials(), openModal(), showAppSection()
 
 ### Community 12 - "Community 12"
 Cohesion: 0.67
-Nodes (3): loadDocuments(), renderDocuments(), uploadDocuments()
+Nodes (3): detectEmailColumn(), handleFileUpload(), openCampaignModal()
 
 ## Knowledge Gaps
 - **Thin community `Community 4`** (9 nodes): `buildOutlookRedirectUri()`, `buildRedirectUri()`, `detectEmailColumn()`, `getCookie()`, `getProviderLabel()`, `getUserForSend()`, `logError()`, `sendEmailViaProvider()`, `server.js`

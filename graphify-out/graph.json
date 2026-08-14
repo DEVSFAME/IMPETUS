@@ -342,7 +342,7 @@
       "source_file": "public/app.js",
       "source_location": "L265",
       "id": "public_app_loaddocuments",
-      "community": 12,
+      "community": 10,
       "norm_label": "loaddocuments()"
     },
     {
@@ -351,7 +351,7 @@
       "source_file": "public/app.js",
       "source_location": "L274",
       "id": "public_app_renderdocuments",
-      "community": 12,
+      "community": 10,
       "norm_label": "renderdocuments()"
     },
     {
@@ -360,7 +360,7 @@
       "source_file": "public/app.js",
       "source_location": "L317",
       "id": "public_app_uploaddocuments",
-      "community": 12,
+      "community": 10,
       "norm_label": "uploaddocuments()"
     },
     {
@@ -585,7 +585,7 @@
       "source_file": "public/app.js",
       "source_location": "L811",
       "id": "public_app_detectemailcolumn",
-      "community": 10,
+      "community": 12,
       "norm_label": "detectemailcolumn()"
     },
     {
@@ -612,7 +612,7 @@
       "source_file": "public/app.js",
       "source_location": "L874",
       "id": "public_app_opencampaignmodal",
-      "community": 10,
+      "community": 12,
       "norm_label": "opencampaignmodal()"
     },
     {
@@ -639,7 +639,7 @@
       "source_file": "public/app.js",
       "source_location": "L1003",
       "id": "public_app_handlefileupload",
-      "community": 10,
+      "community": 12,
       "norm_label": "handlefileupload()"
     },
     {
