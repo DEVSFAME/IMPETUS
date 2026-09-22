@@ -62,3 +62,29 @@ temp/
 *~
 .DS_Store
 IMPETUS.zip
+
+# ─── Secrets & identifiants (CRITIQUE) ───────────────────────────────────────
+# env1 = copie du .env contenant TOUS les secrets (SMTP, OAuth, DATABASE_URL)
+env1
+
+# ─── Bases de données SQLite (données locales, non versionnées) ───────────────
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# ─── Prisma Client généré (régénéré via le script postinstall) ────────────────
+src/generated/
+
+# ─── Fichiers uploadés par les utilisateurs (données personnelles) ───────────
+uploads/
+
+# ─── Cache Graphify (le rapport GRAPH_REPORT.md reste versionné) ─────────────
+graphify-out/cache/
+
+# ─── Obsidian — état de session éphémère ─────────────────────────────────────
+.obsidian/workspace.json
+
+# ─── Espace de travail VS Code & fichiers de sauvegarde ──────────────────────
+*.code-workspace
+*.backup
