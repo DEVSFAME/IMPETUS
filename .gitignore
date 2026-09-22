@@ -63,6 +63,14 @@ temp/
 .DS_Store
 IMPETUS.zip
 
+# ─── Archives (snapshots complets — ne jamais versionner) ────────────────────
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
 # ─── Secrets & identifiants (CRITIQUE) ───────────────────────────────────────
 # env1 = copie du .env contenant TOUS les secrets (SMTP, OAuth, DATABASE_URL)
 env1
