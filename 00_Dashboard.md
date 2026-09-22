@@ -86,4 +86,10 @@
 
 ---
 
+## 📚 Journal des Interventions
+
+- [[notes/2026-09-22-Transfert-Repo-IMPETUS|🚚 2026-09-22 — Transfert du dépôt vers DEVSFAME/IMPETUS]] — `.gitignore` complété + purge de l'historique (secrets, zip 66 MB).
+
+---
+
 > 🗺️ **Navigation rapide** : Utilise `Cmd+O` (macOS) / `Ctrl+O` (Windows) dans Obsidian pour chercher n'importe quel fichier du projet.
